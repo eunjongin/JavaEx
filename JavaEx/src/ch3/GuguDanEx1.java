@@ -6,7 +6,7 @@ public class GuguDanEx1 {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method
 		int dan = Integer.parseInt(args[0]);
 		System.out.println(dan + "´Ü");
 		System.out.println("---------------");
